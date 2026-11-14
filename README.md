@@ -19,7 +19,7 @@ I have created the program to also support Linux though the vOICe does  not nati
 ## Download
 
 You can download the latest standalone version of vOICe Depth directly from the [GitHub Releases](https://github.com/pranavlal/vOICe_depth/releases) page:
-1. Navigate to the **Releases** section on the right-hand side of the GitHub repository (or use the link above).
+1. Navigate to the **[Releases](https://github.com/aibolem/vOICe_depth/releases)** section on the right-hand side of the GitHub repository (or use the link above).
 2. Download the `vOICe_Depth_v1.6.apk` (or highest version available) from the Assets under the latest release.
 3. Extract the ZIP file to a folder on your computer.
 
