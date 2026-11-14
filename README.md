@@ -1,5 +1,7 @@
 # vOICe Depth
 
+https://github.com/aibolem/vOICe_depth/releases
+
 **vOICe Depth** is a  companion  program to [The vOICe](https://www.seeingwithsound.com/) created by Dr., Peter BL. Meijer  which is a program that converts images to  sound allowing blind people to percieve images and live scenes. Traditionally, [The vOICe](https://www.seeingwithsound.com/) has had monocular vision though stereo vision support has been present in the softwarefrom  a long  time. Much has changed today since depth cameras are more readily availaable and  today, it is possible to even use ordinary webcams like depthcameras via ai models that convert frames to stereo images.  In other words, vOICe Depth is designed to bridge depth-perception hardware (like Intel RealSense/OAK-D cameras) or standard Webcams (via MiDaS neural networks) with [The vOICe](https://www.seeingwithsound.com/). It computes real-time depth maps and feeds them either to an on-screen window or directly to a Virtual Camera intended to be read by The vOICe. 
 
 This project aims to be completely screen-reader friendly and uses native TTS to announce hotkeys and camera changes.
